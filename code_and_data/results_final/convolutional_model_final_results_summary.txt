@@ -1,0 +1,24 @@
+Run 1:
+training: accuracy: 0.9842 - loss: 0.0614 - val_accuracy: 0.9739 - val_loss: 0.0955
+test: 121/121 - 2s - 15ms/step - accuracy: 0.9570 - loss: 0.1623
+Test accuracy: 0.9570424556732178
+
+Run 2:
+training: accuracy: 0.9776 - loss: 0.0786 - val_accuracy: 0.9715 - val_loss: 0.0936
+test: 121/121 - 2s - 14ms/step - accuracy: 0.9578 - loss: 0.1530
+Test accuracy: 0.9578234553337097
+
+Run 3:
+training: accuracy: 0.9758 - loss: 0.0879 - val_accuracy: 0.9739 - val_loss: 0.0965
+test: 121/121 - 2s - 14ms/step - accuracy: 0.9542 - loss: 0.1543
+Test accuracy: 0.9541785717010498
+
+Run 4:
+training: accuracy: 0.9643 - loss: 0.1328 - val_accuracy: 0.9715 - val_loss: 0.1074
+test: 121/121 - 2s - 16ms/step - accuracy: 0.9630 - loss: 0.1292
+Test accuracy: 0.9630304574966431
+
+Run 5:
+training: accuracy: 0.9763 - loss: 0.0817 - val_accuracy: 0.9707 - val_loss: 0.0963
+test: 121/121 - 2s - 15ms/step - accuracy: 0.9490 - loss: 0.1666
+Test accuracy: 0.9489716291427612

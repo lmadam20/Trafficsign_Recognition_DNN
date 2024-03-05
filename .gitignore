@@ -1,0 +1,5 @@
+# files to exclude from the repo
+not_in_repo/**
+code_and_data/results_final/*.keras
+code_and_data/results_hyperparameters/kt_*/**
+code_and_data/kt_*/**

@@ -1,0 +1,7 @@
+When writing the scripts, the following resources were used:
+* The documentation, guides and examples for Keras and KerasTuner at https://keras.io/.
+* Resources and examples provided for Tensorflow at https://www.tensorflow.org/.
+* The documentation of Scikit-image at https://scikit-image.org/.
+* The official Python 3 documentation at https://docs.python.org/3/.
+
+The time of access of all resources listed above was in the February of 2024.
